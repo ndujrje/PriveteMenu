@@ -10,7 +10,7 @@ return {
     },
     GuiTexts = {
         MainPanelTitle = "Privete Menu By Shadow",
-        OwnerTitle = "جموعه هنر تفلب:",
+        OwnerTitle = "مجموعه:",
         DeveloperTitle = "طراح و نويسنده:",
         TelegramTitle = "کانال تلگرام:",
         YoutubeTitle = "کانال یوتیوب:",
